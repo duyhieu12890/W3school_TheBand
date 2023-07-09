@@ -1,0 +1,32 @@
+body, html{
+    margin: 0;
+    height: 100%;
+}
+.container{
+}
+.nav{
+        background-color: black;
+        display: flex;
+}
+.item{
+
+    display: block;
+    padding: 8px 16px;
+}
+.nav a{
+    font-size: 16px;
+    color:white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif ;
+}
+.about h3{
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.about p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8px 20%;
+}
